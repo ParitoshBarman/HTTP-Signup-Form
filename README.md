@@ -29,7 +29,7 @@ This project demonstrates the usage of the HTTP module in Node.js by creating a 
 
 ## Files
 
-- `server.js` - Main server file.
+- `index.js` - Main server file.
 - `signupForm.html` - HTML form served to users.
 - `db.json` - JSON file to store user data.
 
@@ -45,7 +45,7 @@ This project demonstrates the usage of the HTTP module in Node.js by creating a 
 3. Create `signupForm.html` with a basic signup form.
 4. Run the server:
     ```bash
-    node server.js
+    node index.js
     ```
 5. Visit `http://localhost:8080` in your browser.
 
